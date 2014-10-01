@@ -1,3 +1,4 @@
+Jory
 for filename in chem/*.pdb
 do
        basicFilename=$(basename $filename .pdb 
